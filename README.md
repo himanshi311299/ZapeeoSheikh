@@ -1,4 +1,4 @@
-<h1 align="center">Hi �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Muhammad Rameez</h1>
+<h1 align="center">Hi �<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Himanshi Tiwari</h1>
 <h3 align="center">I am a Web Developer & UI Designer</h3>
 
 
@@ -30,21 +30,18 @@
 
 - 🔭 Computer Science Student at **Government College University Lahore**
 
-- 🔗 Have a Look at my [Portfolio](http://zapeeosheikh.unaux.com/elementor-57/)
 
 - 🌱 Currently, I'm focusing on **Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source Project or Internship**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/ZapeeoSheikh)
+- 👨‍💻 All of my projects are available at [GitHub]([github.com/ZapeeoSheikh](https://github.com/himanshi311299))
 
-- 📫 Reach me via [Email](mailto:muhammadrmz871@gmail.com)
+- 📫 Reach me via [Email](mailto:himanshitiwari311299@gmail.com)
 
-- 👣 I like Chess and Badminton
+- 👣 I like Singing Songs and Travelling
 
-- 🧿 Check my UI Design work at [Dribble](https://dribbble.com/muhammadrmz)
-
-- ⚡ Fun fact **I am a MutliThinker**
+- ⚡ Fun fact **I am a MutliThinker & Multitasker**
 
 
 <hr>
