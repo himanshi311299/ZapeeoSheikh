@@ -28,8 +28,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beingaravian&label=Profile%20views&color=red&style=flat" alt="m-rameez" /> </p>
 
-- 🔭 Computer Science Student at **Government College University Lahore**
-
 
 - 🌱 Currently, I'm focusing on **Flutter**
 
